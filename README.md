@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpecterVector , my Original name can be easily identified with my Email ID mentioned below.
-- 👀 I’m interested in Frontend Development but would like to get an opportunity to explore MERN stack and React+Django fullstack.
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in Frontend Development & would like to get an opportunity to explore MERN stack.
+- 🌱 I’m currently trying gain more knowledge of React JS.
 - 💞️ I’m looking to collaborate on React+Node JS projects, where collaboration can help me and the other party learn+grow.
 - 📫 Reach me on my Email: lakshyachawla10@gmail.com or on my LinkedIn: www.linkedin.com/in/lakshya-chawla-460564160 
 
